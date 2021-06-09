@@ -1,0 +1,22 @@
+.red{
+    color: blue;
+}
+.blue{
+    color: grey;
+}
+.green{
+    color: green;
+}
+.cal-cont{
+    text-align: center;
+    padding-right: 3px;
+    max-width: 250px !important;
+}
+.grey{
+    outline-color: grey;
+    background-color: grey;
+}
+.green{
+    background-color: green;
+    color: #FFFFFF;
+}
